@@ -3,11 +3,11 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 import time
 
-TWITTER_ID = 'ani.laliashvili@yahoo.com'
-PASSWORD = 'Lilucie001'
-CHROME_DRIVER_PATH = 'C:\\Users\\anila\\ChromeDriver\\chromedriver.exe'
-PROVIDER_NAME = 'CoxComm'
-USERNAME = 'Kato49858399'
+TWITTER_ID = 'MYTWITTEREMAILORPHONE'
+PASSWORD = 'MYTWITTERPASSWORD'
+CHROME_DRIVER_PATH = 'C:\\PATH\\chromedriver.exe'
+PROVIDER_NAME = 'INTERNETPROVIDERTWITTERHANDLE'
+USERNAME = 'TWITTERUSERNAME'
 
 PROMISED_DOWN = 100
 PROMISED_UP = 10
